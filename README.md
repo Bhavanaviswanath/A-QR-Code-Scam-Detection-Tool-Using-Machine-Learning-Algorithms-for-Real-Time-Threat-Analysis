@@ -19,27 +19,6 @@ To run the code in this repository, you will need:
 - Python 3.x
 - Jupyter Notebook
 
----
-
-## ⚙️ Installation
-
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/ChapelFob80930/DPS-Project.git
-   ```
-
-2. **Navigate to the project directory**:
-   ```sh
-   cd DPS-Project
-   ```
-
-3. **Install the required dependencies**:
-   ```sh
-   pip install -r requirements.txt
-   ```
-
----
-
 ## 🚀 Usage
 
 ### ▶️ Running Jupyter Notebooks
