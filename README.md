@@ -65,6 +65,7 @@ If you would like to contribute to this project, please follow these steps:
    ```
 6. **Open a pull request**
 
+
 ## 📌 Project Overview
 
 This project presents a smart and secure *QR Code Scam Detection Tool* that utilizes *machine learning algorithms* to identify and flag potentially malicious or fraudulent QR codes in real time. The system analyzes encoded URL patterns and associated metadata to detect scams, ensuring user safety during QR interactions.
@@ -94,13 +95,14 @@ This project presents a smart and secure *QR Code Scam Detection Tool* that util
 ---
 ## sample outputs
 
-![image](https://github.com/GudepuRakshitha/A-QR-Code-Scam-Detection-Tool-Using-Machine-Learning-Algorithms-for-Real-Time-Threat-Analysis-/blob/19deba2d6b87f67c15b19702fe0cad9ba9225fd4/qr1.png)
+![QR 1](https://raw.githubusercontent.com/Bhavanaviswanath/A-QR-Code-Scam-Detection-Tool-Using-Machine-Learning-Algorithms-for-Real-Time-Threat-Analysis/f4b3410decfb7af9d4cf906ec36054143c5c3656/qr1.png)
 
-![image](https://github.com/GudepuRakshitha/A-QR-Code-Scam-Detection-Tool-Using-Machine-Learning-Algorithms-for-Real-Time-Threat-Analysis-/blob/19deba2d6b87f67c15b19702fe0cad9ba9225fd4/qr2.png)
+![QR 2](https://raw.githubusercontent.com/Bhavanaviswanath/A-QR-Code-Scam-Detection-Tool-Using-Machine-Learning-Algorithms-for-Real-Time-Threat-Analysis/f4b3410decfb7af9d4cf906ec36054143c5c3656/qr2.png)
 
-![image](https://github.com/GudepuRakshitha/A-QR-Code-Scam-Detection-Tool-Using-Machine-Learning-Algorithms-for-Real-Time-Threat-Analysis-/blob/19deba2d6b87f67c15b19702fe0cad9ba9225fd4/qr3.png)
+![QR 3](https://raw.githubusercontent.com/Bhavanaviswanath/A-QR-Code-Scam-Detection-Tool-Using-Machine-Learning-Algorithms-for-Real-Time-Threat-Analysis/f4b3410decfb7af9d4cf906ec36054143c5c3656/qr3.png)
 
-![image](https://github.com/GudepuRakshitha/A-QR-Code-Scam-Detection-Tool-Using-Machine-Learning-Algorithms-for-Real-Time-Threat-Analysis-/blob/19deba2d6b87f67c15b19702fe0cad9ba9225fd4/qr4.png)
+![QR 4](https://raw.githubusercontent.com/Bhavanaviswanath/A-QR-Code-Scam-Detection-Tool-Using-Machine-Learning-Algorithms-for-Real-Time-Threat-Analysis/f4b3410decfb7af9d4cf906ec36054143c5c3656/qr4.png)
+
 
 ---
 
@@ -119,12 +121,14 @@ pip install -r requirements.txt
 Run Detection Script: python detector.py --image ./data/sample_qr.png
 Launch Streamlit App: streamlit run app.py
 
+
 ## Sample Output 
 QR Scan Result:
 URL: http://bit.ly/secure-login-page
 ⚠️ Alert: This QR code redirects to a suspicious domain.
 Threat Type: URL Shortener + Phishing Keywords
 Prediction: SCAM
+
 
 ## Future Enhancements
 🔁 Live camera QR scanning integration
@@ -136,6 +140,7 @@ Prediction: SCAM
 📱 Android/iOS App using React Native or Flutter
 
 
+
 ## 🙏 Acknowledgments
 
 Thank you for using **QR code Scam Detector**.  
@@ -143,9 +148,11 @@ If you have any questions or feedback, feel free to open an issue or contact the
 
 ---
 
+
 ## 🧠 Code
 
 Feel free to modify this project to better suit your needs!
+
 
 ## ✍️ Author
 
