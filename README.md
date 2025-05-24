@@ -1,4 +1,4 @@
-# QR_code_scam_detector
+# A QR Code Scam Detection Tool Using Machine Learning Algorithms for Real-Time Threat Analysis
 
 This repository contains the **QR Code Scam Detector**, primarily developed using **Jupyter Notebook** and **Python**.
 
@@ -80,4 +80,5 @@ Feel free to modify this project to better suit your needs!
 ## ✍️ Author
 
 **Natuva Bhavana**  
+
 Email: natuvabhavana@gmail.com
